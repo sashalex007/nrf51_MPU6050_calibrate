@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/teams/Nordic-Semiconductor/code/nRF51822
+default = http://mbed.org/teams/Nordic-Semiconductor/code/nRF51822/

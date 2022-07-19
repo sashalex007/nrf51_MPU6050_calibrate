@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/teams/Bluetooth-Low-Energy/code/BLE_API
+default = http://mbed.org/teams/Bluetooth-Low-Energy/code/BLE_API/
