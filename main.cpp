@@ -223,7 +223,7 @@ void SetOffsets(int TheOffsets[6]) {
 void ShowProgress() {
 
   char buffer[128];
-  snprintf(buffer, sizeof(buffer), "x: %d\n y: %d\n z: %d\n xg: %d\n yg: %d\n zg: %d\n DONE\n", LowOffset[0], LowOffset[1],
+  snprintf(buffer, sizeof(buffer), " x: %d\n y: %d\n z: %d\n xg: %d\n yg: %d\n zg: %d\n DONE\n", LowOffset[0], LowOffset[1],
   LowOffset[2], LowOffset[3], LowOffset[4],LowOffset[5]);
   char *num_string = buffer; // String terminator is added by snprintf
 
