@@ -22,7 +22,7 @@ We are using Keil uVision for flashing because ST tools will not recognize the S
 8. Connect the board to your STlink. Make sure you use 3.3v in the board VCC
 9. From the top menu, Flash ==> Download. The flashing should complete successfully.
 10. Download Serial Bluetooth Terminal from the play store (android) and connect to your board (should be named "Calibrate")
-11. Once connect, send the device the number "1" from the serial console. Calibration should commence, give it 5 minutes to complete. Device should remain as flat as possible for callibration accuracy.
+11. Once connected, send the device the number "1" from the serial console. Calibration should commence, give it 5 minutes to complete. Device should remain as flat as possible for callibration accuracy.
 
 ### Guide 2 (build hex file from source)
 
