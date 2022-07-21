@@ -28,7 +28,7 @@ We are using Keil uVision for flashing because ST tools will not recognize the S
 
 I am using Keil studio cloud for compiling. It is possible to build offline, but its too time consuming. 
 
-1. Open your Keil studio cloid and import project from this URL (https://github.com/sashalex007/nrf51_MPU6050_calibrate)
+1. Open your Keil studio cloud and import project from this URL (https://github.com/sashalex007/nrf51_MPU6050_calibrate)
 2. Select "Seeed Arch BLE" as the target hardware
 3. Build. Hex file will start downloading automatically 
 4. Follow guide 1 for flashing the hex file
