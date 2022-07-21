@@ -9,6 +9,7 @@ Prerequisites
 1. STlink v2, chinese clone will work
 2. Keil uVision 5 (MDK)
 3. Some jumper wires
+4. An android phone
 
 ### Guide 1 (for flashing firmware.hex file)
 
