@@ -1,5 +1,7 @@
 # DMP calibration firmware for nrf51 sensor tag
 
+![Screenshot](screenshot.png)
+
 This is a mpu6050 calibration firmware for an nrf51802 based sensor tag. This firmware will compute xyz offsets for both gyro and accelerometer.
 https://www.aliexpress.com/item/32859423925.html
 
