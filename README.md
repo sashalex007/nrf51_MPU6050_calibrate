@@ -14,6 +14,8 @@ Prerequisites
 
 We are using Keil uVision for flashing because ST tools will not recognize the SoC.
 
+![Screenshot](jumper.png)
+
 1. Download the NordicSemiconductor software packs with keil package installer and create a new project
 2. Select nrf51802_xxAA as your device
 3. Go to target options. In the output tab click "select folder for objects" and browse to the folder containing firmware.hex. Change name of executable to firmware.hex.
